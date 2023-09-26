@@ -1,4 +1,4 @@
-
+import swal from 'sweetalert';
 
 const DonationDetailsCard = ({ donationDetails }) => {
 
@@ -12,12 +12,14 @@ const DonationDetailsCard = ({ donationDetails }) => {
         if (!donatedItems) {
             addedDonationsItems.push(donationDetails);
             localStorage.setItem("donates", JSON.stringify(addedDonationsItems));
-            // swal("Good job!", "You successfully donated!", "success");
+            swal("Good job!", "You successfully donated!", "success");
+          
         }
         else {
             addedDonationsItems.push(...donatedItems, donationDetails);
             localStorage.setItem("donates", JSON.stringify(addedDonationsItems));
-            // swal("Good job!", "You successfully donated!", "success");
+            swal("Good job!", "You successfully donated!", "success");
+            
         }
     }
 
