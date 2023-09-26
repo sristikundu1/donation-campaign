@@ -1,0 +1,136 @@
+[
+    {
+        "ID": "1",
+        "Picture": "https://i.ibb.co/vLFLTcq/objective-health-precision-medicine-future-of-healthcare-personalized-healthcare-1024x499.jpg",
+        "Category": "Health",
+        "CategoryBackgroundColor": "rgba(0, 82, 255, 0.20)",
+        "cardColor": "rgba(0, 82, 255, 0.15)",
+        "textColor": "#0052FF",
+        "Title": "Supporting Medical Advancements",
+        "Description": "Contribute to groundbreaking medical research and healthcare innovations. Your donation enables scientists and medical professionals to develop new treatments. Together, we can save lives and make a lasting impact on public health.",
+        "Price": 100
+      },
+      {
+        "ID": "2",
+        "Picture": "https://i.ibb.co/stxmMPX/access-banner.png",
+        "Category": "Health",
+        "CategoryBackgroundColor": "rgba(0, 82, 255, 0.20)",
+        "cardColor": "rgba(0, 82, 255, 0.15)",
+        "textColor": "#0052FF",
+        "Title": "Access to Healthcare for All",
+        "Description": "Empower underprivileged communities by providing free medical check-ups, vaccinations, and essential medicines. Your generous contribution supports mobile clinics and healthcare outreach programs, ensuring that everyone has access to basic healthcare services.",
+        "Price": 50
+      },
+      {
+        "ID": "3",
+        "Picture": "https://i.ibb.co/GMWrMNk/1688985831361.jpg",
+        "Category": "Health",
+        "CategoryBackgroundColor": "rgba(0, 82, 255, 0.20)",
+        "cardColor": "rgba(0, 82, 255, 0.15)",
+        "textColor": "#0052FF",
+        "Title": "Mental Health Awareness",
+        "Description": "Promote mental health awareness and support mental health initiatives. Your donation funds counseling services, hotlines, and programs that help individuals struggling with mental health challenges.Let's make mental well-being a priority for everyone",
+        "Price": 75
+      },
+      {
+        "ID": "4",
+        "Picture": "https://i.ibb.co/mSVmj3V/20210909-FANOida-0908-680x368-c-default.jpg",
+        "Category": "Food",
+        "CategoryBackgroundColor": "rgba(248, 113, 71, 0.20)",
+        "cardColor": "rgba(248, 113, 71, 0.15)",
+        "textColor": "#F87147",
+        "Title": "Fighting Hunger Together",
+        "Description": "Join the fight against hunger and food insecurity by supporting local food banks and meal programs. Your donation helps provide nutritious meals to individuals and families in need, ensuring that no one goes to bed hungry.",
+        "Price": 25
+      },
+      {
+        "ID": "5",
+        "Picture": "https://i.ibb.co/hM6yJQX/ms-e1617977913918.jpg",
+        "Category": "Food",
+        "CategoryBackgroundColor": "rgba(248, 113, 71, 0.20)",
+        "cardColor": "rgba(248, 113, 71, 0.15)",
+        "textColor": "#F87147",
+        "Title": "Sustainable Food for All",
+        "Description": "Promote sustainable agriculture and support farmers who grow organic produce. Your contribution helps ensure a steady supply of healthy food and supports eco-friendly farming practices for a better future.",
+        "Price": 75
+      },
+      {
+        "ID": "6",
+        "Picture": "https://i.ibb.co/7JWTMwk/istockphoto-498665609-612x612.jpg",
+        "Category": "Food",
+        "CategoryBackgroundColor": "rgba(248, 113, 71, 0.20)",
+        "cardColor": "rgba(248, 113, 71, 0.15)",
+        "textColor": "#F87147",
+        "Title": "School Meals for Children",
+        "Description": "Ensure that every child receives nutritious meals at school. Your contribution supports school lunch programs, helping children focus on their education without hunger.",
+        "Price": 30
+      },
+      {
+        "ID": "7",
+        "Picture": "https://i.ibb.co/d6k43Cj/loud-51.png",
+        "Category": "Education",
+        "CategoryBackgroundColor": "rgba(255, 68, 74, 0.20)",
+        "cardColor": "rgba(255, 68, 74, 0.15)",
+        "textColor": "#FF444A",
+        "Title": "Unlocking Potential through Education",
+        "Description": "Empower students from underserved backgrounds with scholarships and educational resources. Your generous donation paves the way for a brighter future, where every child has access to quality education and limitless opportunities.",
+        "Price": 200
+      },
+      {
+        "ID": "8",
+        "Picture": "https://i.ibb.co/pw8z6xP/investment-in-education-concept-free-vector.jpg",
+        "Category": "Education",
+        "CategoryBackgroundColor": "rgba(255, 68, 74, 0.20)",
+        "cardColor": "rgba(255, 68, 74, 0.15)",
+        "textColor": "#FF444A",
+        "Title": "Investing in Educational Excellence",
+        "Description": "Support dedicated teachers and educational institutions that strive for excellence. Your contribution enriches the learning experience, equipping students with the knowledge and skills they need to succeed.",
+        "Price": 50
+      },
+      {
+        "ID": "9",
+        "Picture": "https://i.ibb.co/gtWzHRC/digital-learning.jpg",
+        "Category": "Education",
+        "CategoryBackgroundColor": "rgba(255, 68, 74, 0.20)",
+        "cardColor": "rgba(255, 68, 74, 0.15)",
+        "textColor": "#FF444A",
+        "Title": "Digital Learning for All",
+        "Description": "Bridge the digital divide by providing underprivileged students with access to technology and online learning resources. Your donation equips them for success in the digital age.",
+        "Price": 100
+      },
+      {
+        "ID": "10",
+        "Picture": "https://i.ibb.co/ZHYbcqN/women-trying-on-vintage-clothes-from-second-hand-vector-44643909.jpg",
+        "Category": "Clothing",
+        "CategoryBackgroundColor": "rgba(121, 194, 63, 0.20)",
+        "cardColor": "rgba(121, 194, 63, 0.15)",
+        "textColor": "#79C23F",
+        "Title": "Warmth and Comfort for All",
+        "Description": "Donate gently used clothing to provide warmth and comfort to those in need. Your contribution brings smiles to the less fortunate and ensures that everyone stays warm during colder seasons.",
+        "Price": 10
+      },
+      {
+        "ID": "11",
+        "Picture": "https://i.ibb.co/fHm0PWC/3008.webp",
+        "Category": "Clothing",
+        "CategoryBackgroundColor": "rgba(121, 194, 63, 0.20)",
+        "cardColor": "rgba(121, 194, 63, 0.15)",
+        "textColor": "#79C23F",
+        "Title": "Emergency Clothing Relief",
+        "Description": "Support emergency clothing relief efforts for individuals affected by natural disasters and crises. Your donation provides essential clothing to those who have lost everything, offering comfort and warmth during difficult times.",
+        "Price": 59.99
+      
+      },
+      {
+        "ID": "12",
+        "Picture": "https://i.ibb.co/k8K1b6L/OWC-1200x760.jpg",
+        "Category": "Clothing",
+        "CategoryBackgroundColor": "rgba(121, 194, 63, 0.20)",
+        "cardColor": "rgba(121, 194, 63, 0.15)",
+        "textColor": "#79C23F",
+        "Title": "Winter Clothing Drive",
+        "Description": "Support a winter clothing drive to provide warm clothing to homeless individuals during the cold season. Your contribution ensures that everyone stays safe and warm.",
+        "Price": 15
+      }     
+      
+]
